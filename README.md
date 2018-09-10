@@ -1,1 +1,1 @@
-hfa
+Open kernel.ipynb with jupyter
